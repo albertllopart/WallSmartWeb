@@ -57,6 +57,24 @@ This is your own personal mall, but still there are some rules that you cannot c
 - Customers have random preferences, so maybe they don't like the shops that you have built. It's up to you do find out what are their likes. Maybe try guessing them by looking at their appearence? Don't need to judge them, though.
 - You can only build at night, so think well your next purchase during the day while you observe the chaos that you're creating!
 
+# Behaviour Trees
+
+### Pokémon Go Player
+
+<img src="Images/BT_POKE_PLAYER.png" alt="hi" class="inline"/>
+
+### Thief
+
+<img src="Images/BT_THIEF.png" alt="hi" class="inline"/>
+
+### Police Man
+
+<img src="Images/BT_POLICE.png" alt="hi" class="inline"/>
+
+### Customer
+
+<img src="Images/BT_CUSTOMER_1.png" alt="hi" class="inline"/>
+
 # License
 
 MIT License
