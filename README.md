@@ -4,8 +4,8 @@ WallSmart is an artificial intelligence oriented game where you have to build yo
 
 # Authors
 
-- Marc Fabian
-- Albert Llopart
+- [Marc Fabian](https://github.com/xDragan)
+- [Albert Llopart](https://github.com/albertllopart/)
 
 # Bitbucket
 
