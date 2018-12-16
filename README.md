@@ -37,7 +37,7 @@ They are little girls that will roam around your mall looking for PokéStops, a 
 
 They will wander around your mall looking for Pokémon Go Players to rob their mobile phones, causing them to flee home while being unable to earn money for the player. If you are having trouble with them, consider hiring some security, using your UI!
 
-### Police Man
+### PoliceMan
 
 <img src="Images/Police.PNG" alt="hi" class="inline"/>
 
@@ -67,13 +67,19 @@ This is your own personal mall, but still there are some rules that you cannot c
 
 <img src="Images/BT_THIEF.png" alt="hi" class="inline"/>
 
-### Police Man
+### PoliceMan
 
 <img src="Images/BT_POLICE.png" alt="hi" class="inline"/>
 
 ### Customer
 
 <img src="Images/BT_CUSTOMER_1.png" alt="hi" class="inline"/>
+
+### Closer look at Customer's
+
+<img src="Images/BT_1.png" alt="hi" class="inline"/>
+<img src="Images/BT_2.png" alt="hi" class="inline"/>
+<img src="Images/BT_3.png" alt="hi" class="inline"/>
 
 # License
 
