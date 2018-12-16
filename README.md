@@ -1,5 +1,7 @@
 # Welcome to WallSmart
 
+<img src="Images/overview.PNG" alt="hi" class="inline"/>
+
 WallSmart is an artificial intelligence oriented game where you have to build your own Mall, with limited space and money. Your objective through the game is to sustain that mall at the same time that you manage to keep it safe aswell you return the credit to the bank.
 
 # Authors
